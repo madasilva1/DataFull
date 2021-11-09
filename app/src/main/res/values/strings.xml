@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DataFull</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="load_data">Load Data</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_find">FIND</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_load">LOADDATA</string>
+</resources>
